@@ -26,7 +26,7 @@ In this project I use pandas library to analyze mock purchase data for a fantasy
 
 ### Top Items
 #### Most popular items 
-![top items](https://user-images.githubusercontent.com/37421256/44117671-95a29d8a-9fd9-11e8-9e24-a23e4ea14e3c.png)
+![screen shot 2018-08-14 at 3 34 09 pm](https://user-images.githubusercontent.com/37421256/44118140-c8ccf4d4-9fda-11e8-9f1a-fa31cc3aec21.png)
 #### Most profitable items
 ![profit items](https://user-images.githubusercontent.com/37421256/44117672-95bda8d2-9fd9-11e8-8ba1-2e0f46fc1fbd.png)
 
